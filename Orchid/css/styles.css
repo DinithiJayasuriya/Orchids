@@ -61,16 +61,8 @@ background-color: #9ACD32!important;
 
 
 }
-#imageone{
-  height:200px!important;
-}
 
-/*#imagetwo{
-  padding:0!important;
-  width:200px!important;
-  position:relative;
-  left:-15px;
-}*/
+
 /*.firstcontent{
   position :relative;
   left :20px;
@@ -79,8 +71,8 @@ background-color: #9ACD32!important;
 
 .flip-box {
   background-color: transparent;
-  width: 800px;
-  height: 200px;
+  width: 2000px !important;
+  height: 450px;
   border: 1px solid #f1f1f1;
   perspective: 1000px;
 }
@@ -184,8 +176,9 @@ background-color: #9ACD32!important;
 #
 #map-tile {
   
-  background-position: center;
+  background-position: auto;
   height: 300px;
+
 }
 
 
